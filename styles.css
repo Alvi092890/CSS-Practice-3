@@ -1,0 +1,129 @@
+body {
+  font-family: 'Cormorant Infant', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  display: inline-block;
+  font-family: 'Architects Daughter', cursive;
+}
+
+h3 {
+  color: red;
+  font-family: 'Antic', sans-serif;
+}
+
+p {
+  color: red;
+}
+
+table {
+  display: inline-block;
+}
+
+th {
+  color: red;
+}
+
+td {
+  color: red;
+}
+
+.top-container {
+  background-color: pink;
+  padding-bottom: 200px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 50px;
+  position: relative;
+}
+
+.middle-container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.bottom-container {
+  background-color: pink;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+}
+
+.birthday-cake {
+  display: inline-block;
+  float: right;
+  height: 200px;
+  width: 250px;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #F63D9A;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #DD0D3B 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #D01E2F;
+   border: solid #DD380D 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.cake {
+  display: inline-block;
+  height: 150px;
+  left: 100px;
+  position: absolute;
+  width: 150px;
+}
+
+.contact-us {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.cupcake {
+  height: 150px;
+  position: absolute;
+  right: 100px;
+  width: 150px;
+}
+
+.footer-link {
+  color: red;
+  font-family: 'Cormorant Infant',serif;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.pan-dulce {
+  display: inline-block;
+  float: left;
+  height: 200px;
+  width: 300px;
+}
